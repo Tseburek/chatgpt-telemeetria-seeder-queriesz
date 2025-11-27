@@ -1,5 +1,3 @@
-– queries.sql – Autor: ChatGPT (koos kasutajaga) – Fail sisaldab 6
-täielikult põhjendatud ja kriteeriumitele vastavat SELECT päringut.
 
 /* ——————————————————- 1. Päring: Kõige aktiivsemad kasutajad (sõnumite
 arv) Eesmärk: Admin näeb, millised kasutajad on platvormil kõige
