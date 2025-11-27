@@ -1,0 +1,1 @@
+# chatgpt-telemeetria-seeder-queriesz
